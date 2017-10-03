@@ -1,0 +1,16 @@
+{
+  "work": [
+    {
+      "id" : "1",
+      "name" : "Le Mûrier",
+      "description" : "Créer et mettre en place une charte graphique en adéquation avec l'esprit de la maison d'hôte. Création du site from scratch.",
+      "img" : []
+    },
+    {
+      "id" : "2",
+      "name" : "Cocoricourse",
+      "description" : "Projet réalisé au sein de simplon. Créer d'un site pour aider les personnes non-francophones à trouver des ressources de cours de francais en ligne.",
+      "img" : []
+    }
+  ]
+}
